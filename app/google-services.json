@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806499901871",
+    "firebase_url": "https://etifirebaserealtimedb.firebaseio.com",
+    "project_id": "etifirebaserealtimedb",
+    "storage_bucket": "etifirebaserealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806499901871:android:765c80c739a4e83d",
+        "android_client_info": {
+          "package_name": "id.my.eti.etifirebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806499901871-ug06rqek8r8mfv7l98l5imsu14acqlai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.my.eti.etifirebaserealtimedb",
+            "certificate_hash": "7ed3e7df42d0b95b00035af2883d962643867360"
+          }
+        },
+        {
+          "client_id": "806499901871-v8boikfciiraet92agk6h65uog68rs8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLpx4uYWYr4GxG67DldullBA0hsL80ec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806499901871-v8boikfciiraet92agk6h65uog68rs8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
